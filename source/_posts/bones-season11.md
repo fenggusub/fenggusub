@@ -32,4 +32,4 @@ cover_detail: /img/covers/bones-cover-detail.jpg
 
 ### 资源下载
 
-[识骨寻踪 第十一季 高清精校](https://pan.baidu.com/s/1dEPJN1J#list/path=%2F)
+[识骨寻踪 第十一季 高清精校 百度网盘](https://pan.baidu.com/s/1dEPJN1J#list/path=%2F)
