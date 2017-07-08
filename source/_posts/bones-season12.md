@@ -31,4 +31,4 @@ cover_detail: /img/covers/bones-cover-detail.jpg
 
 ### 资源下载
 
-[识骨寻踪 第十二季 高清 HDTV](https://pan.baidu.com/s/1i5BLHlF#list/path=%2F)
+[识骨寻踪 第十二季 高清 HDTV 百度网盘](https://pan.baidu.com/s/1i5BLHlF#list/path=%2F)
