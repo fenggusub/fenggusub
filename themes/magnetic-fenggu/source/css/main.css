@@ -58,7 +58,7 @@ h5, h6          { font-weight: bolder }
 .clearfix:after {  
     clear: both;  
 }  
- 
+
 .clearfix {  
     *zoom: 1;  
 }
@@ -184,6 +184,21 @@ h5, h6          { font-weight: bolder }
     header ul.social li a.rss,
     header ul.social li a.rss:hover{
         background-position: -155px 0;
+    }
+
+    header ul.social li a.weibo,
+    header ul.social li a.weibo:hover{
+        background-position: -186px 0;
+    }
+
+    header ul.social li a.email,
+    header ul.social li a.email:hover{
+        background-position: -217px 0;
+    }
+
+    header ul.social li a.qq-group,
+    header ul.social li a.qq-group:hover{
+        background-position: -248px 0;
     }
 
     header .rights p{
@@ -365,7 +380,7 @@ h5, h6          { font-weight: bolder }
     margin: 0 4px 7px 0;
     color: #454545!important;
     border: 1px solid #454545;
-    padding: 7px 15px;
+    padding: 3px 15px;
     text-decoration: none;
 }
 
@@ -671,7 +686,6 @@ h5, h6          { font-weight: bolder }
 blockquote {
     border-left: 3px solid #5d686f;
     padding: 0 15px;
-    font-style: italic;
     margin: 1.5em 0 0;
 }
 blockquote cite:before {
@@ -1506,4 +1520,17 @@ figure.highlight.yml .meta,
 figure.highlight.yml .number,
 .codeblock.yml .number {
     color: #0086b3;
+}
+
+.qrcodes-wrap {
+    margin-top: 40px;
+    padding-top: 40px;
+    text-align: center;
+    border-top: 1px solid #f6f6f6;
+}
+
+.qrcodes-wrap img {
+    display: inline-block;
+    width: 200px;
+    margin: 0 20px;
 }

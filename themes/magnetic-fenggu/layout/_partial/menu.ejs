@@ -35,12 +35,22 @@
             <% if (theme.rss_url) { %>
                 <li><a href="<%- theme.rss_url %>" class="rss" target="_blank" data-title="RSS"></a></li>
             <% } %>
+            <% if (theme.weibo_url) { %>
+                <li><a href="<%- theme.weibo_url %>" class="weibo" target="_blank" data-title="<%- theme.weibo_title %>"></a></li>
+            <% } %>
+            <% if (theme.qq_group_idkey) { %>
+                <li><a href="//shang.qq.com/wpa/qunwpa?idkey=<%- theme.qq_group_idkey %>" class="qq-group" target="_blank" data-title="<%- theme.qq_group_title %>"></a></li>
+            <% } %>
+            <% if (theme.email_address) { %>
+                <li><a href="mailto:<%- theme.email_address %>" class="email" data-title="<%- theme.email_title %>"></a></li>
+            <% } %>
         </ul><!-- end social -->
 
         <div class="rights">
             <p>Copyright © 2017 风骨字幕组</p>
-            <p>Template by <a href="http://pixelhint.com/magnetic-free-html5-responsive-photography-website-template/">Pixelhint.com</a></p>
-            <p>Hexo Theme by <a href="http://www.codeblocq.com/">Jonathan K.</a></p>
+            <!--<p>Template by <a href="http://pixelhint.com/magnetic-free-html5-responsive-photography-website-template/">Pixelhint.com</a></p>
+            <p>Hexo Theme by <a href="http://www.codeblocq.com/">Jonathan K.</a></p>-->
+            <p>一个任性的字幕组 只翻想翻的剧</p>
         </div><!-- end rights -->
     </div ><!-- end footer -->
 </header><!-- end header -->
