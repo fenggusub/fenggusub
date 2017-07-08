@@ -1,46 +1,34 @@
 ---
 title: 识骨寻踪 第十二季
 tags:
-- 美剧
+- 美国
+- 剧情
 - 刑侦
+- 悬疑
 category: tv-series
 date: 2017-07-07 11:11:48
-updated: 2017-07-08 11:11:48
+updated: 2017-07-08 23:11:48
 cover_index: /img/covers/bones-season12-cover-index.jpg
 cover_detail: /img/covers/bones-cover-detail.jpg
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+### 基本信息
 
-### Create a new post
+>导演: 艾米丽·丹斯切尔
+编剧: 哈特·汉森 / Kathy Reichs
+主演: 艾米丽·丹斯切尔 / 大卫·伯伦纳兹 / 米谢拉·康琳 / 塔玛拉·泰勒 / T·J·塞恩 / 约翰·博伊德 / 艾瑞克·米勒甘 / 蒂姆·金尼 / 萨拉·茹 / Michael Grant Terry / Ravi Kapoor / Alan Cockerill
+类型: 剧情 / 喜剧 / 爱情 / 悬疑 / 犯罪
+制片国家/地区: 美国
+首播: 2017-01-04(美国)
+集数: 12
+单集片长: 45
+[IMDB 链接](http://www.imdb.com/title/tt5499982)
+[豆瓣链接](https://movie.douban.com/subject/26735801/)
 
-``` bash
-$ hexo new "My New Post"
-```
+### 剧情简介
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+《识骨寻踪》主角David Boreanaz、Emily Deschanel在与剧组经过漫长的谈判后，终于签了新合约，FOX续订12集的第12季为最终季。
 
-### Run server
+### 资源下载
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+[识骨寻踪 第十二季 高清 HDTV](https://pan.baidu.com/s/1i5BLHlF#list/path=%2F)

@@ -9,6 +9,8 @@
 
     <section class="wrapper">
         <div class="content">
+            <!-- Tags -->
+            <%- partial('article-tags') %>
 
             <!-- Gallery -->
             <% if (item.photos && item.photos.length){ %>
@@ -18,8 +20,8 @@
             <!-- Content -->
             <%- item.content %>
 
-            <!-- Tags -->
-            <%- partial('article-tags') %>
+            <!-- Qrcodes -->
+            <%- partial('article-qrcodes') %>
 
             <!-- Comments -->
             <div>
