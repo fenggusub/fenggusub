@@ -326,6 +326,7 @@ h5, h6          { font-weight: bolder }
     text-align: center;
     top: 50%;
     margin-top: -40px;
+    line-height: 1.5;
 }
 
 .main .work .caption h1{
