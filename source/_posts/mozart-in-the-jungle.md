@@ -1,9 +1,11 @@
 ---
 title: 丛林中的莫扎特
-category: tv-series
+category: 剧集
 date: 2017-07-07 23:03:19
 updated: 2017-07-08 20:03:19
 tags:
+- 剧情
+- 喜剧
 cover_index: /img/covers/mozart-in-the-jungle-season1-cover-index.jpg
 cover_detail: /img/covers/mozart-in-the-jungle-cover-detail.jpg
 ---

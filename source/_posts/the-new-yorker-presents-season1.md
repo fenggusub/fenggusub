@@ -1,9 +1,10 @@
 ---
 title: 纽约客再现 第一季
-category: documentary
+category: 纪录片
 date: 2017-07-07 23:03:22
 updated: 2017-07-07 23:03:22
 tags:
+- 纪录片
 cover_index: /img/covers/the-new-yorker-presents-season1-cover-index.jpg
 cover_detail: /img/covers/the-new-yorker-presents-cover-detail.jpg
 ---

@@ -3,7 +3,8 @@ title: "乐高积木世界 Beyond the Brick: A LEGO Brickumentary (2014)"
 date: 2017-07-08 19:10:32
 updated: 2017-07-08 19:10:32
 tags:
-category: documentary
+- 纪录片
+category: 纪录片
 cover_index: /img/covers/beyond-the-brick-a-lego-brickumentary-2014-cover-index.jpg
 cover_detail: /img/covers/beyond-the-brick-a-lego-brickumentary-2014-cover-detail.jpg
 ---

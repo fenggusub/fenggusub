@@ -1,6 +1,6 @@
 ---
 title: 喜福会 The Joy Luck Club (1993)
-category: movie
+category: 电影
 date: 2017-07-08 18:43:31
 updated: 2017-07-07 18:43:31
 tags:

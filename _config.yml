@@ -46,7 +46,16 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  剧集: tv-series
+  电影: movie
+  纪录片: documentary
 tag_map:
+  美国: us
+  英国: british
+  剧情: drama
+  喜剧: comedy
+  刑侦: crime
+  纪录片: documentary
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date

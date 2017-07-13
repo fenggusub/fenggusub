@@ -1,13 +1,12 @@
 ---
 title: 识骨寻踪 第十一季
-category: tv-series
+category: 剧集
 date: 2017-07-07 22:21:39
 updated: 2017-07-08 20:21:39
 tags:
 - 美国
 - 剧情
 - 刑侦
-- 悬疑
 cover_index: /img/covers/bones-season11-cover-index.jpg
 cover_detail: /img/covers/bones-cover-detail.jpg
 ---

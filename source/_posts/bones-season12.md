@@ -4,8 +4,7 @@ tags:
 - 美国
 - 剧情
 - 刑侦
-- 悬疑
-category: tv-series
+category: 剧集
 date: 2017-07-07 11:11:48
 updated: 2017-07-08 23:11:48
 cover_index: /img/covers/bones-season12-cover-index.jpg

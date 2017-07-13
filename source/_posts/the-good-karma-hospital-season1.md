@@ -1,9 +1,11 @@
 ---
 title: 善缘医院 第一季
-category: tv-series
+category: 剧集
 date: 2017-07-07 23:03:20
 updated: 2017-07-08 18:03:20
 tags:
+- 英国
+- 剧情
 cover_index: /img/covers/the-good-karma-hospital-season1-cover-index.jpg
 cover_detail: /img/covers/good-karma-hospital-season1-cover-detail.jpg
 ---
