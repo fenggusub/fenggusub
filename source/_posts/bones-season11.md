@@ -9,6 +9,14 @@ tags:
 - 刑侦
 cover_index: /img/covers/bones-season11-cover-index.jpg
 cover_detail: /img/covers/bones-cover-detail.jpg
+resources:
+-
+  name: "第十一季 高清精校合集"
+  list:
+  -
+    name: "百度网盘"
+    type: baidupan
+    url: "https://pan.baidu.com/s/1dEPJN1J#list/path=%2F"
 ---
 
 ### 基本信息
@@ -28,7 +36,3 @@ cover_detail: /img/covers/bones-cover-detail.jpg
 ### 剧情简介
 
 本季于2015年8月3日开始拍摄。演员 Kim Raver 将于本季的头两集出现并饰演联邦调查局探员 Grace Miller 。除此之外，另一演员 Betty White 将参与一集作特别演出，饰演法医人类学家 Dr. Beth Mayer。在本年的十一月，剧组宣布选用了演员Sara Rue饰演Leslie Green，一个协助Booth工作的行为分析员并将参与多集演出。
-
-### 资源下载
-
-[识骨寻踪 第十一季 高清精校 百度网盘](https://pan.baidu.com/s/1dEPJN1J#list/path=%2F)

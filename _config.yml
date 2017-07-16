@@ -43,6 +43,8 @@ highlight:
   auto_detect: false
   tab_replace:
 
+show_resources: true # show resources ro not
+
 # Category & Tag
 default_category: uncategorized
 category_map:

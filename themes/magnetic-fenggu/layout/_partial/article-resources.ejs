@@ -1,0 +1,23 @@
+<% if (config.show_resources && item.resources.length > 0) { %>
+    <h3 id="资源下载"><a href="#资源下载" class="headerlink" title="资源下载"></a>资源下载</h3>
+
+    <% item.resources && item.resources.forEach(function(resource){ %>
+        <!-- <h4 class="resources-item-title"><%- resource.name %></h4> -->
+        <div class="resources-item-wrap">
+            <span class="resources-item-title"><%- resource.name %></span>
+            <% resource.list.forEach(function(i){ %>
+                <% if (i.type === 'magnet' || i.type === 'ed2k') { %>
+                    <span class="resources-list-item"><a href="<%- i.url%>" target="_blank"><%- i.name%></a></span>
+                <% } %>
+                <% if (i.type === 'baidupan') { %>
+                    <span class="resources-list-item">
+                        <a href="<%- i.url%>" target="_blank"><%- i.name%></a>
+                        <% if (i.password && i.password !== '') { %>
+                            <span>密码：[ <%- i.password %> ]</span>
+                        <% } %>
+                    </span>
+                <% } %>
+            <% }); %>
+        </div>
+    <% }); %>
+<% } %>
