@@ -1535,3 +1535,29 @@ figure.highlight.yml .number,
     width: 200px;
     margin: 0 20px;
 }
+
+h4.resources-item-title {
+    margin: 10px 0;
+}
+
+span.resources-item-title {
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.resources-item-wrap {
+    line-height: 2;
+}
+
+.resources-item-wrap .resources-list-item {
+    margin-right: 10px;
+}
+
+.resources-item-wrap a {
+    color: #297bc1;
+    text-decoration: none;
+}
+
+.resources-item-wrap a:hover {
+    text-decoration: underline;
+}

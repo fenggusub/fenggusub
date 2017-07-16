@@ -9,6 +9,14 @@ date: 2017-07-07 11:11:48
 updated: 2017-07-08 23:11:48
 cover_index: /img/covers/bones-season12-cover-index.jpg
 cover_detail: /img/covers/bones-cover-detail.jpg
+resources:
+-
+  name: "第十二季 高清 HDTV 合集"
+  list:
+  -
+    name: "百度网盘"
+    type: baidupan
+    url: "https://pan.baidu.com/s/1i5BLHlF#list/path=%2F"
 ---
 
 ### 基本信息
@@ -27,7 +35,3 @@ cover_detail: /img/covers/bones-cover-detail.jpg
 ### 剧情简介
 
 《识骨寻踪》主角David Boreanaz、Emily Deschanel在与剧组经过漫长的谈判后，终于签了新合约，FOX续订12集的第12季为最终季。
-
-### 资源下载
-
-[识骨寻踪 第十二季 高清 HDTV 百度网盘](https://pan.baidu.com/s/1i5BLHlF#list/path=%2F)

@@ -7,6 +7,14 @@ tags:
 - 喜剧
 cover_index: /img/covers/master-of-none-season1-cover-index.jpg
 cover_detail: /img/covers/master-of-none-season1-cover-detail.jpg
+resources:
+-
+  name: "第一季合集"
+  list:
+  -
+    name: "百度网盘"
+    type: baidupan
+    url: "https://pan.baidu.com/s/1hrwMkNa#list/path=%2F"
 ---
 
 ### 基本信息
@@ -27,7 +35,3 @@ cover_detail: /img/covers/master-of-none-season1-cover-detail.jpg
 ### 剧情简介
 
 根据Aziz Ansari单元演员生活经历改编。纽约一名年届三十的演员Dev，连自己下一顿要吃什么都无法决定，更不用说接下来的人生路要如何抉择。故事将会探讨多样话题，从老年人困境到移民经历到如何寻找晚餐最好吃的意面。
-
-### 资源下载
-
-[无为大师 第一季 百度网盘](https://pan.baidu.com/s/1hrwMkNa#list/path=%2F)
