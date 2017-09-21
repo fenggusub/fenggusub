@@ -10,7 +10,7 @@ cover_index: /img/covers/the-joy-luck-club-cover-index.jpg
 cover_detail: /img/covers/the-joy-luck-club-cover-detail.jpg
 resources:
 -
-  name: "720p BlueRay"
+  name: "720p Bluray"
   list:
   -
     name: "磁力链接"

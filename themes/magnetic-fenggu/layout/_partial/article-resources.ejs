@@ -6,7 +6,7 @@
         <div class="resources-item-wrap">
             <span class="resources-item-title"><%- resource.name %></span>
             <% resource.list.forEach(function(i){ %>
-                <% if (i.type === 'magnet' || i.type === 'ed2k') { %>
+                <% if (i.type === 'magnet' || i.type === 'ed2k' || i.type === 'subs' || i.type === 'online') { %>
                     <span class="resources-list-item"><a href="<%- i.url%>" target="_blank"><%- i.name%></a></span>
                 <% } %>
                 <% if (i.type === 'baidupan') { %>

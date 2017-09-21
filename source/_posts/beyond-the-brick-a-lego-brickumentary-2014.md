@@ -9,7 +9,7 @@ cover_index: /img/covers/beyond-the-brick-a-lego-brickumentary-2014-cover-index.
 cover_detail: /img/covers/beyond-the-brick-a-lego-brickumentary-2014-cover-detail.jpg
 resources:
 -
-  name: "720p BlueRay"
+  name: "720p Bluray"
   list:
   -
     name: "磁力链接"
