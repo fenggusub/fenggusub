@@ -11,7 +11,7 @@ cover_index: /img/covers/bones-season12-cover-index.jpg
 cover_detail: /img/covers/bones-cover-detail.jpg
 resources:
 -
-  name: "第十二季 1080P Webdl 合集"
+  name: "第十二季 1080P WEBDL 合集"
   list:
   -
     name: "百度网盘"
