@@ -80,5 +80,6 @@ theme: magnetic-fenggu
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/fenggusub/fenggusub.github.io.git
+  # 下方的 gh_token会被 .travis.yml 中替换
+  repo: https://gh_token@github.com/fenggusub/fenggusub.github.io.git
   branch: master
