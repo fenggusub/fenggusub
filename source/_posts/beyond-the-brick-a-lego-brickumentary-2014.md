@@ -25,8 +25,8 @@ resources:
     url: "https://pan.baidu.com/s/1kUEAArH#list/path=%2F"
   -
     name: "外挂字幕"
-    type: sub
-    url: "http://subhd.com/ar0/361317"
+    type: subs
+    url: "http://subhd.com/ar0/361317"
 ---
 
 ### 基本信息
