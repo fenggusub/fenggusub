@@ -11,6 +11,7 @@ notifications:
   email:
     recipients:
       - fenggusub@gmail.com
+      - qliu918@qq.com
     on_success: always # default: change
     on_failure: always # default: always
 
