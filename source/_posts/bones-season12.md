@@ -16,9 +16,9 @@ resources:
   -
     name: "百度网盘"
     type: baidupan
-    url: "https://pan.baidu.com/s/1hs1dbs4%02#list/path=%2F"
+    url: "https://pan.baidu.com/s/1hs1dbs4"
   -
-    name:"外挂（匹配720P&1080P WEB-DL）"
+    name: "外挂下载（匹配720P&1080P WEB-DL）"
     type: sub
     url: "http://subhd.com/ar0/374715"
 
