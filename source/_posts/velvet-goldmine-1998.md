@@ -23,8 +23,11 @@ resources:
     name: "百度网盘"
     type: baidupan
     url: "https://pan.baidu.com/s/1qXIqw12"
+  -
+    name: "外挂字幕"
+    type: subs
+    url: "http://subhd.com/ar0/370930"
 ---
-
 ### 基本信息
 
 >导演: 托德·海因斯
