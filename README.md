@@ -1,13 +1,13 @@
 # 风骨字幕组
 
-## 开发指南
+## 更新指南
 
-### 开发准备
-1. Fork 这个 Repo。
-2. 克隆 fork 出的 Repo 到本地。
-3. 添加 remote 地址：`git remote add fenggusub https://github.com/fenggusub/fenggusub.git`
+1. 申请 fenggusub/fenggusub 的写权限，联系 fenggusub@gmail.com，或直接提 Pull Request。
+1. 进入 [fenggusub/fenggusub 的 repo](https://github.com/fenggusub/fenggusub)，文章在 `/source/_posts` 目录下。
+1. 点击 `xxx.md` 页面右上角的 `小铅笔 (Edit this file)` 修改文章；在`/source/_posts` 目录下点击 `Create new file` 可以新建文章。
 
-### 每一次开发新功能
-1. 更新自己的 master 分支：`git pull fenggusub master:master`
-2. 从 `master` 分支切出新分支开发。
-3. 开发完成后提交 Pull Request 到 `fenggusub/fenggusub:master`。
+## 附录
+
+- [Markdown 语法说明](http://wowubuntu.com/markdown/)
+- [YAML 语言教程](http://www.ruanyifeng.com/blog/2016/07/yaml.html)
+- [文章参考：英格丽向西行](https://raw.githubusercontent.com/fenggusub/fenggusub/master/source/_posts/ingrid-goes-west-2017.md)
