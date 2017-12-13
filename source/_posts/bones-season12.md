@@ -11,7 +11,14 @@ cover_index: /img/covers/bones-season12-cover-index.jpg
 cover_detail: /img/covers/bones-cover-detail.jpg
 resources:
 -
-  name: "第十二季 高清 HDTV 合集"
+  name: "第十二季 1080P WEBDL 合集"
+  list:
+  -
+    name: "百度网盘"
+    type: baidupan
+    url: "https://pan.baidu.com/s/1hs1dbs4%02#list/path=%2F"
+-
+  name: "第十二季 720P HDTV 合集"
   list:
   -
     name: "百度网盘"
