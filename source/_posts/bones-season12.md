@@ -19,7 +19,7 @@ resources:
     url: "https://pan.baidu.com/s/1hs1dbs4"
   -
     name: "外挂字幕(匹配720P&1080P WEB-DL)"
-    type: sub
+    type: subs
     url: "http://subhd.com/ar0/374715"
 -
   name: "第十二季 720P HDTV 合集"
