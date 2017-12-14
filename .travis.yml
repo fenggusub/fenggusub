@@ -27,8 +27,8 @@ before_script:
 # - npm install -g gulp
 
 script:
-  - hexo clean
-  - node ./hexo.js
+  # - hexo clean
+  - hexo generate
 
 after_script:
   - git config user.name "fenggusub"
