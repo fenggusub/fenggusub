@@ -8,6 +8,7 @@ hexo.init().then(function(){
       return hexo.exit();
     }).catch(function(err){
       console.log('generation failed:', err)
+      process.exit(1);
       return hexo.exit(err);
     });
   });
