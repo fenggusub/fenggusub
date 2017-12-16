@@ -42,7 +42,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-
+comments: true
 show_resources: true # show resources ro not
 
 # Category & Tag

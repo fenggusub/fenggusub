@@ -24,6 +24,8 @@ comments:
     appid:
     comment_count: 5
     comment_colorscheme: light
+  # LiveRe comments
+  livere: MTAyMC8zMjQ0NC85MDA1
 
 # Google Analytics Tracking ID
 google_analytics: UA-102285693-1
