@@ -340,13 +340,6 @@ resources:
       type: ed2k
       url: ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S03E10.720p.WEBRip.X264-DEFLATE_x264.mp4|257774060|1d0aeb630a55bf52745738ff9baec75a|h=sdwhospwnllwwz23xboj2k5uwzklapqu|/
 -
-  name: "前三季合集"
-  list:
-  -
-    name: "百度网盘"
-    type: baidupan
-    url: "https://pan.baidu.com/s/1i4lohnv#list/path=%2F"
--
   name: S04E01
   list:
     -
@@ -357,6 +350,13 @@ resources:
       name: 电驴链接
       type: ed2k
       url: ed2k://%7Cfile%7C%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E01.The.Boyfriend.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4%7C365367658%7C62e0210f0e0c8e1e2f730077539890de%7Ch=j5wh73nrljilmyf27xwjakengadzqrci%7C/ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E01.The.Boyfriend.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4|365367658|62e0210f0e0c8e1e2f730077539890de|h=j5wh73nrljilmyf27xwjakengadzqrci|/
+-
+  name: "前三季合集"
+  list:
+  -
+    name: "百度网盘"
+    type: baidupan
+    url: "https://pan.baidu.com/s/1i4lohnv#list/path=%2F"
 -
   name: "第四季合集（更新至 E01）"
   list:
