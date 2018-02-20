@@ -2,7 +2,7 @@
 title: 丛林中的莫扎特
 category: 剧集
 date: 2017-07-07 23:03:19
-updated: 2017-07-08 20:03:19
+updated: 2018-02-20 21:40:19
 tags:
 - 剧情
 - 喜剧
@@ -346,6 +346,25 @@ resources:
     name: "百度网盘"
     type: baidupan
     url: "https://pan.baidu.com/s/1i4lohnv#list/path=%2F"
+-
+  name: S04E01
+  list:
+    -
+      name: 磁力链接
+      type: magnet
+      url: magnet:?xt=urn:btih:bf916abdd6bacbd0879f77bf52006c6b7d9ea0b8&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz
+    -
+      name: 电驴链接
+      type: ed2k
+      url: ed2k://%7Cfile%7C%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E01.The.Boyfriend.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4%7C365367658%7C62e0210f0e0c8e1e2f730077539890de%7Ch=j5wh73nrljilmyf27xwjakengadzqrci%7C/ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E01.The.Boyfriend.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4|365367658|62e0210f0e0c8e1e2f730077539890de|h=j5wh73nrljilmyf27xwjakengadzqrci|/
+-
+  name: "第四季合集（更新至 E01）"
+  list:
+  -
+    name: "百度网盘"
+    type: baidupan
+    url: "https://pan.baidu.com/share/init?surl=i6QGNuX"
+    password: 3gz4
 ---
 
 ### 基本信息
