@@ -350,6 +350,25 @@ resources:
       name: 电驴链接
       type: ed2k
       url: ed2k://%7Cfile%7C%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E01.The.Boyfriend.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4%7C365367658%7C62e0210f0e0c8e1e2f730077539890de%7Ch=j5wh73nrljilmyf27xwjakengadzqrci%7C/ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E01.The.Boyfriend.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4|365367658|62e0210f0e0c8e1e2f730077539890de|h=j5wh73nrljilmyf27xwjakengadzqrci|/
+    -
+      name: "外挂字幕"
+      type: subs
+      url: "http://subhd.com/ar0/377799"
+-
+  name: S04E02
+  list:
+    -
+      name: 磁力链接
+      type: magnet
+      url: magnet:?xt=urn:btih:6a14e04e691b2228c8f63492af771f294d5512a8&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz
+    -
+      name: 电驴链接
+      type: ed2k
+      url: ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E02.V2.If.I.Was.An.Elf.I.Would.Tell.You.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4|472952628|99b1f27db0fecd311652499772022f78|h=akgh4cshgg3yloi4kmwoawt4zmvjc565|/
+    -
+      name: "外挂字幕"
+      type: subs
+      url: "http://subhd.com/ar0/377900"
 -
   name: "前三季合集"
   list:
@@ -358,7 +377,7 @@ resources:
     type: baidupan
     url: "https://pan.baidu.com/s/1i4lohnv#list/path=%2F"
 -
-  name: "第四季合集（更新至 E01）"
+  name: "第四季合集（更新至 E02）"
   list:
   -
     name: "百度网盘"
