@@ -370,6 +370,36 @@ resources:
       type: subs
       url: "http://subhd.com/ar0/377900"
 -
+  name: S04E03
+  list:
+    -
+      name: 磁力链接
+      type: magnet
+      url: magnet:?xt=urn:btih:be397add43ee5d3ae161dcebb03b0a8c79450684&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz
+    -
+      name: 电驴链接
+      type: ed2k
+      url: ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E03.Significant.Lover.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4|417328914|8c44ce2e231aa9df1c9c3d27196c31c6|h=fkjuwphnjnhub4ik2hrvhummrj3a7u6l|/
+    -
+      name: "外挂字幕"
+      type: subs
+      url: "http://subhd.com/ar0/378007"
+-
+  name: S04E04
+  list:
+    -
+      name: 磁力链接
+      type: magnet
+      url: magnet:?xt=urn:btih:4b5593b519589a607291f3b04d7a0b3d8199049a&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz
+    -
+      name: 电驴链接
+      type: ed2k
+      url: ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E04.An.Honest.Ghost.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4|404791143|48d34199d0ff2e2534cc897fac49138f|h=bp5xwfh3wapid32yzxlosmyfjqmdullj|/
+    -
+      name: "外挂字幕"
+      type: subs
+      url: "http://subhd.com/ar0/378035"
+-
   name: "前三季合集"
   list:
   -
@@ -377,7 +407,7 @@ resources:
     type: baidupan
     url: "https://pan.baidu.com/s/1i4lohnv#list/path=%2F"
 -
-  name: "第四季合集（更新至 E02）"
+  name: "第四季合集（更新至 E04）"
   list:
   -
     name: "百度网盘"
