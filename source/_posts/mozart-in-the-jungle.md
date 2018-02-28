@@ -370,7 +370,7 @@ resources:
       type: subs
       url: "http://subhd.com/ar0/377900"
 -
-name: S04E03
+  name: S04E03
   list:
     -
       name: 磁力链接
@@ -385,7 +385,7 @@ name: S04E03
       type: subs
       url: "http://subhd.com/ar0/378007"
 -
-name: S04E04
+  name: S04E04
   list:
     -
       name: 磁力链接
