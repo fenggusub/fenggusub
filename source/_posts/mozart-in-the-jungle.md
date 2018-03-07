@@ -416,6 +416,22 @@ resources:
       type: subs
       url: "http://subhd.com/ar0/378112"
 -
+  name: S04E06
+  list:
+    -
+      name: 磁力链接
+      type: magnet
+      url: magnet:?xt=urn:btih:234931edba7568e6b1223a7dc272781820740e88&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz
+    
+    -
+      name: 电驴链接
+      type: ed2k
+      url: ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E06.Domo.Arigato.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4|533563404|9efc20d9f10e8f5c80eca45f49eed9d4|h=6ce462zrgls3efraezjk7gwd6ofgoksz|/
+    -
+      name: "外挂字幕"
+      type: subs
+      url: "http://subhd.com/ar0/378299"
+-
   name: "前三季合集"
   list:
   -
