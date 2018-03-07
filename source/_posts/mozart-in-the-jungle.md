@@ -400,6 +400,22 @@ resources:
       type: subs
       url: "http://subhd.com/ar0/378035"
 -
+  name: S04E05
+  list:
+    -
+      name: 磁力链接
+      type: magnet
+      url: magnet:?xt=urn:btih:1bb2b486b79e1836c1b0a5de7eeb7ca41a90a38b&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz
+    
+    -
+      name: 电驴链接
+      type: ed2k
+      url: ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E05.The.Coach.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4|381650271|9a0217367a3a05a820864098a86a40ac|h=iz5r5nsimfwccfcjwihtmoq3xwomfuet|/
+    -
+      name: "外挂字幕"
+      type: subs
+      url: "http://subhd.com/ar0/378112"
+-
   name: "前三季合集"
   list:
   -
@@ -407,7 +423,7 @@ resources:
     type: baidupan
     url: "https://pan.baidu.com/s/1i4lohnv#list/path=%2F"
 -
-  name: "第四季合集（更新至 E04）"
+  name: "第四季合集（更新至 E08）"
   list:
   -
     name: "百度网盘"
