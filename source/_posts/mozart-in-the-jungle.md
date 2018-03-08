@@ -447,7 +447,7 @@ resources:
       name: "外挂字幕"
       type: subs
       url: "http://subhd.com/ar0/378301"
-      -
+-
   name: S04E08
   list:
     -
