@@ -448,6 +448,22 @@ resources:
       type: subs
       url: "http://subhd.com/ar0/378301"
 -
+  name: S04E08
+  list:
+    -
+      name: 磁力链接
+      type: magnet
+      url: magnet:?xt=urn:btih:35c40d7995988be0ef36f75f8781eb2bb0ec0399&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz
+    
+    -
+      name: 电驴链接
+      type: ed2k
+      url: ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E08.Ichi.Go.Ichi.E.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4|312181702|2e933db57a7c38db17fd6ec0374fe2c7|h=id2baqubwj3e7nkrb2gniqkqvcyignou|/
+    -
+      name: "外挂字幕"
+      type: subs
+      url: "http://subhd.com/ar0/378302"
+-
   name: "合集（更新至 S04E08）"
   list:
   -
