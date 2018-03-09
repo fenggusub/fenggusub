@@ -464,7 +464,22 @@ resources:
       type: subs
       url: "http://subhd.com/ar0/378302"
 -
-  name: "合集（更新至 S04E08）"
+  name: S04E09
+  list:
+    -
+      name: 磁力链接
+      type: magnet
+      url: magnet:?xt=urn:btih:231e4f6c37aa52b56b4c854915cc9ada3b3f757d&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz
+    -
+      name: 电驴链接
+      type: ed2k
+      url: ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E09.I.Want.You.To.Think.Of.Me.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD.mp4|401054433|788f8793a72daccd025d8ae394b23d2d|h=rujeuv3scqicr3ajshns43srk43v6nab|/
+    -
+      name: "外挂字幕"
+      type: subs
+      url: "http://subhd.com/ar0/378376"
+-
+  name: "合集（更新至 S04E09）"
   list:
   -
     name: "百度网盘"
