@@ -479,7 +479,22 @@ resources:
       type: subs
       url: "http://subhd.com/ar0/378376"
 -
-  name: "合集（更新至 S04E09）"
+  name: S04E10
+  list:
+    -
+      name: 磁力链接
+      type: magnet
+      url: magnet:?xt=urn:btih:22387c0d2aaabb700c3fa49c66890618c64ae1ec&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz
+    -
+      name: 电驴链接
+      type: ed2k
+      url: ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91Mozart.in.the.Jungle.S04E10.Dance.1080p.AMZN.WEBRip.DDP.5.1.x264-TrollHD_x264.mp4|384149547|67120fbb30e7c645dcf55c6dc81bea39|h=r34onglqtkvq3x3dewsnadbmbw5wg7xo|/
+    -
+      name: "外挂字幕"
+      type: subs
+      url: "http://subhd.com/ar0/378449"
+-
+  name: "合集（更新至 S04E10 ）"
   list:
   -
     name: "百度网盘"
