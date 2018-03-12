@@ -28,7 +28,7 @@ before_script:
 
 script:
   # - hexo clean
-  - hexo generate
+  - hexo generate -b
 
 after_script:
   - git config user.name "fenggusub"
