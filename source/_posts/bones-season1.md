@@ -29,8 +29,8 @@ resources:
 首播: 2005-09-13(美国)
 集数: 22
 单集片长: 40分钟
-[IMDB 链接](http://www.imdb.com/title/tt4670876)
-[豆瓣链接](https://movie.douban.com/subject/26385628/)
+[IMDB 链接](https://www.imdb.com/title/tt0460627)
+[豆瓣链接](https://movie.douban.com/subject/1427819/)
 
 ### 剧情简介
 
