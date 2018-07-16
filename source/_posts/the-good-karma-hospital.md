@@ -1,8 +1,8 @@
 ---
-title: 善缘医院 第一季
+title: 善缘医院
 category: 剧集
 date: 2017-07-07 23:03:20
-updated: 2017-07-08 18:03:20
+updated: 2018-07-16 18:03:20
 tags:
 - 英国
 - 剧情
@@ -82,6 +82,87 @@ resources:
     name: "百度网盘"
     type: baidupan
     url: "https://pan.baidu.com/s/1boI64FX#list/path=%2F"
+  -
+    name: "青铜网盘"
+    type: qingt
+    url: "https://qingt.net/files?action=share&fid=a75743c4429f4d258a051b0b17b0b1c3"
+-
+  name: "S02E01"
+  list:
+  -
+    name: "磁力链接"
+    type: magnet
+    url: "magnet:?xt=urn:btih:eaf9ce262b6a14a6a478f533a7109b49cfa86647&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz"
+  -
+    name: "电驴链接"
+    type: ed2k
+    url: "ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91The.Good.Karma.Hospital.S02E01.720p.HDTV.x264-ORGANiC_x264.mp4|409961255|c077cb9562f2b8717e6d052e0cc1b242|h=zrg2oygfrvv3aaweixztzuanmruikm67|/"
+-
+  name: "S02E02"
+  list:
+  -
+    name: "磁力链接"
+    type: magnet
+    url: "magnet:?xt=urn:btih:ecee379c95cd9e893642be5e294d3139a56c2f8e&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz"
+  -
+    name: "电驴链接"
+    type: ed2k
+    url: "ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91The.Good.Karma.Hospital.S02E02.720p.HDTV.x264-ORGANiC.mp4|605399848|37340c9a8c0324569e3cdbff0cd36638|h=evsoftlb52iuemi6vgclyhfffe4gmnd6|/"
+-
+  name: "S02E03"
+  list:
+  -
+    name: "磁力链接"
+    type: magnet
+    url: "magnet:?xt=urn:btih:fa5dc9b14860bd3065c188cfbe3a59e358d975b8&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz"
+  -
+    name: "电驴链接"
+    type: ed2k
+    url: "ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91The.Good.Karma.Hospital.S02E03.720p.HDTV.x264-ORGANiC.mp4|584956020|276255950fc472b7ccc4c53b6c812761|h=ousk6qbudkcb6kww7fen3pzzltlq7ki6|/"
+-
+  name: "S02E04"
+  list:
+  -
+    name: "磁力链接"
+    type: magnet
+    url: "magnet:?xt=urn:btih:0cc9e0bfd2ffb53026c4349f1bf2dc0b6751399c&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz"
+  -
+    name: "电驴链接"
+    type: ed2k
+    url: "ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91The.Good.Karma.Hospital.S02E04.720p.HDTV.x264-ORGANiC.mp4|610980443|eda77fa8b1dd0d8126e81af58f7be92e|h=oguyjhrl72g46uoe5y5ga2qjuwc63fys|/"
+-
+  name: "S02E05"
+  list:
+  -
+    name: "磁力链接"
+    type: magnet
+    url: "magnet:?xt=urn:btih:432e42ea0e755ecae72d9a4bed6cdba8892d485e&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz"
+  -
+    name: "电驴链接"
+    type: ed2k
+    url: "ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91The.Good.Karma.Hospital.S02E05.720p.HDTV.x264-ORGANiC.mp4|604214588|fa804f6f5c38ee588be55812447b72a4|h=ambfmvgjv73t3mg4vbl7wsih6w5bp4l6|/"
+-
+  name: "S02E06"
+  list:
+  -
+    name: "磁力链接"
+    type: magnet
+    url: "magnet:?xt=urn:btih:287cfac6ab4d4b95eb6d0ea5b78f77f5f5a06571&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz"
+  -
+    name: "电驴链接"
+    type: ed2k
+    url: "ed2k://|file|%E3%80%90%E9%A3%8E%E9%AA%A8%E3%80%91The.Good.Karma.Hospital.S02E06.720p.HDTV.x264-ORGANiC.mp4|619599940|eb26dafb3a3cac45cab258b386106ac5|h=xv4mwad6n5cnpbwzbv7t7sxgxc73ir5s|/"
+-
+  name: "第二季合集"
+  list:
+  -
+    name: "百度网盘"
+    type: baidupan
+    url: "https://pan.baidu.com/s/1haFp9hh5BVL50ctJV2xlIQ"
+  -
+    name: "青铜网盘"
+    type: qingt
+    url: "https://qingt.net/files?action=share&fid=a479a5dd3ee84bc7b9da769c0d8ce184&v=PH02"
 ---
 
 ### 基本信息

@@ -17,6 +17,11 @@
                         <% } %>
                     </span>
                 <% } %>
+                <% if (i.type === 'qingt') { %>
+                    <span class="resources-list-item">
+                        <a href="<%- i.url%>" target="_blank"><%- i.name%></a>
+                    </span>
+                <% } %>
             <% }); %>
         </div>
     <% }); %>
