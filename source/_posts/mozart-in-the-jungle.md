@@ -501,6 +501,10 @@ resources:
     type: baidupan
     url: "https://pan.baidu.com/share/init?surl=i6QGNuX"
     password: 3gz4
+  -
+    name: "青铜网盘"
+    type: qingt
+    url: "https://qingt.net/files?action=share&fid=33b53ddc91ab41248467db9baf5a6029"
 ---
 
 ### 基本信息

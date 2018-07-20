@@ -18,6 +18,10 @@ resources:
     type: baidupan
     url: "https://pan.baidu.com/share/init?surl=NMoTxyY6ltUF6GMQ6cslDg"
     password: 5zK6
+  -
+    name: "青铜网盘"
+    type: qingt
+    url: "https://qingt.net/files?action=share&fid=674c14bb31a84acfa1a385bf9990406e"
 ---
 
 ### 基本信息

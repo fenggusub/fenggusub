@@ -25,6 +25,10 @@ resources:
     type: baidupan
     url: "https://pan.baidu.com/s/1i4L4lz3#list/path=%2F"
   -
+    name: "青铜网盘"
+    type: qingt
+    url: "https://qingt.net/files?action=share&fid=f6d67da764e61738acb1224a88061700"
+  -
     name: "外挂字幕"
     type: subs
     url: "http://subhd.com/ar0/347574"
