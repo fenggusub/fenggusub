@@ -1,5 +1,5 @@
 ---
-title: "硅谷发明家：硅谷大放血 The Inventor: Out for Blood in Silicon Valley (2019)"
+title: "硅谷发明家：吸血成金 The Inventor: Out for Blood in Silicon Valley (2019)"
 date: 2019-06-16 23:23:32
 updated: 2019-06-16 23:23:32
 tags:
